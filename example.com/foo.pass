@@ -1,0 +1,31 @@
+comment: ''
+fullname: foo@example.com
+login: foo
+modified: 2018-02-24 01:42:16.686675
+name: example.com
+password: '-----BEGIN PGP MESSAGE-----
+
+  Version: GnuPG v2
+
+
+  hQEOA+pWb7swFMThEAP+LSgU6nT1wV0pNdofza9gH1tdnfY6EmDdLf7YHZkLuasT
+
+  +ZPGrMmxItCxC7DlJzm/EO9m7E19fxooPaewXNGJDtqmDMnn/Y4b/0lAsY53q0GJ
+
+  RNNuSe6z/4NNl7VFy80P9X1PB1wI4iSzdyZICAs8z8e3KtZORMxfvgoG33KFljsE
+
+  AKnVgvcKrJdlqyuwD62TLqsqCxlAEPpA0IkjshncJm8Ru7Wudvy3RmSD6N/0JoOf
+
+  G9GHYw4TsWV56pLBmwasITZvKDHlSRtNM/AQO3GvFP63bCVk+b2mQ4ImUo4ntho1
+
+  dNzy80g1MiTBg8Yl/G7bu3HrQ5sY+JVrJWnJzuW4fy0M0lsBT8bGfhNRy+toRdDs
+
+  ezk7vw2kBhXRC7uFGtSVI3VOAxdQREHC/cS+hXdrAGz3smQ0W2cgL9FIPHfoLq1H
+
+  ZnbSu/CjAKglLCqxhHNDs1wQm68mUKf+z5k3Z2ib
+
+  =KnrR
+
+  -----END PGP MESSAGE-----
+
+  '
